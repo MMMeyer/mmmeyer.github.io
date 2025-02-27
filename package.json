@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "npm-run-all": "^4.1.5"
+  },
+  "scripts": {
+    "zola": "zola serve",
+    "tailwind": "npx @tailwindcss/cli -i ./styles/in.css -o ./static/styles/style.css --watch",
+    "dev": "npm-run-all --parallel zola tailwind",
+    "clean": "rm -rf ./static/styles/style.css ./docs",
+    "tailwind:build": "npx @tailwindcss/cli -i ./styles/in.css -o ./static/styles/style.css --minify",
+    "zola:build": "zola build --force --output-dir ./docs/",
+    "build": "npm-run-all --sequential clean tailwind:build zola:build"
+  }
+}
