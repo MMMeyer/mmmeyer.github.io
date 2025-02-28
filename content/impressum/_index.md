@@ -4,8 +4,8 @@
 ## Impressum
 
 ### Angaben gemäß § 5 TMG und Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Moritz Meyer
-Am Fuchsberg 16
+Moritz Meyer,
+Am Fuchsberg 16,
 21075, Hamburg
 Deutschland
 
