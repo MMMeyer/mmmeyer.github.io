@@ -12,3 +12,6 @@ commitpush:
 
 push:
     git push
+
+publish: build
+    git add . && git commit -m publish && git push

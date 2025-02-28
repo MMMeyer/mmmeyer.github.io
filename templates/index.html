@@ -1,19 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>the empty room</title>
-    <link rel="stylesheet" href="styles/style.css">
-</head>
-<body class="bg-zinc-900 text-white">
-    <div class="m-auto w-lg">
-
-        <div class="prose prose-invert">
-
-            {{ section.content | safe }}
-            
-        </div>
-    </div>
-</body>
-</html>
+{% extends 'base.html' %} {% block content %} {{ section.content | safe }} {%
+endblock content %}
