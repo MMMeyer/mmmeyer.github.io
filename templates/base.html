@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>the empty room</title>
+        <link rel="icon" type="image/x-icon" href="{{ get_url(path="favicon.ico") | safe }}">
+        <link rel="stylesheet" href="{{ get_url(path="styles/style.css", cachebust=true) | safe }}" />
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
+    </head>
+    <body class="bg-zinc-950 text-white
+        [&::-webkit-scrollbar]:w-1
+        [&::-webkit-scrollbar-track]:bg-zinc-950
+        [&::-webkit-scrollbar-thumb]:bg-zinc-500
+        ">
+        {% include 'nav.html' %}
+        <div class="m-auto max-w-5xl w-full p-4 mt-16 mb-11 h-screen">
+
+            <div id="content" class="prose prose-invert max-w-none h-min">
+                {% block content %} placeholder content {% endblock content %}
+            </div>
+
+        </div>
+        {% include 'footer.html' %}
+    </body>
+</html>
