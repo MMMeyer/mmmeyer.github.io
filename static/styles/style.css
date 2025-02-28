@@ -22,16 +22,19 @@
     --color-gray-800: oklch(0.278 0.033 256.848);
     --color-gray-900: oklch(0.21 0.034 264.665);
     --color-zinc-100: oklch(0.967 0.001 286.375);
+    --color-zinc-300: oklch(0.871 0.006 286.286);
     --color-zinc-400: oklch(0.705 0.015 286.067);
+    --color-zinc-500: oklch(0.552 0.016 285.938);
     --color-zinc-600: oklch(0.442 0.017 285.786);
     --color-zinc-700: oklch(0.37 0.013 285.805);
     --color-zinc-800: oklch(0.274 0.006 286.033);
     --color-zinc-900: oklch(0.21 0.006 285.885);
     --color-zinc-950: oklch(0.141 0.005 285.823);
+    --color-neutral-500: oklch(0.556 0 0);
+    --color-neutral-700: oklch(0.371 0 0);
     --color-white: #fff;
     --spacing: 0.25rem;
     --breakpoint-xl: 80rem;
-    --container-lg: 32rem;
     --container-2xl: 42rem;
     --container-5xl: 64rem;
     --text-xs: 0.75rem;
@@ -1719,8 +1722,26 @@
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
+  .h-32 {
+    height: calc(var(--spacing) * 32);
+  }
   .h-\[calc\(100\%-1rem\)\] {
     height: calc(100% - 1rem);
+  }
+  .h-full {
+    height: 100%;
+  }
+  .h-min {
+    height: min-content;
+  }
+  .h-screen {
+    height: 100vh;
+  }
+  .h-svh {
+    height: 100svh;
+  }
+  .h-svw {
+    height: 100svw;
   }
   .max-h-full {
     max-height: 100%;
@@ -1828,9 +1849,6 @@
   }
   .w-full {
     width: 100%;
-  }
-  .w-lg {
-    width: var(--container-lg);
   }
   .max-w-2xl {
     max-width: var(--container-2xl);
@@ -2026,6 +2044,9 @@
   }
   .overflow-y-auto {
     overflow-y: auto;
+  }
+  .overflow-y-scroll {
+    overflow-y: scroll;
   }
   .rounded-lg {
     border-radius: var(--radius-lg);
@@ -2913,6 +2934,11 @@
       padding: calc(var(--spacing) * 0);
     }
   }
+  .md\:p-1 {
+    @media (width >= 48rem) {
+      padding: calc(var(--spacing) * 1);
+    }
+  }
   .md\:p-3 {
     @media (width >= 48rem) {
       padding: calc(var(--spacing) * 3);
@@ -3129,6 +3155,79 @@
             color: var(--color-blue-500);
           }
         }
+      }
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar\]\:w-1 {
+    &::-webkit-scrollbar {
+      width: calc(var(--spacing) * 1);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar\]\:w-2 {
+    &::-webkit-scrollbar {
+      width: calc(var(--spacing) * 2);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-thumb\]\:bg-gray-300 {
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--color-gray-300);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-thumb\]\:bg-zinc-300 {
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--color-zinc-300);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-thumb\]\:bg-zinc-500 {
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--color-zinc-500);
+    }
+  }
+  .dark\:\[\&\:\:-webkit-scrollbar-thumb\]\:bg-neutral-500 {
+    @media (prefers-color-scheme: dark) {
+      &::-webkit-scrollbar-thumb {
+        background-color: var(--color-neutral-500);
+      }
+    }
+  }
+  .dark\:\[\&\:\:-webkit-scrollbar-thumb\]\:bg-zinc-500 {
+    @media (prefers-color-scheme: dark) {
+      &::-webkit-scrollbar-thumb {
+        background-color: var(--color-zinc-500);
+      }
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-track\]\:bg-gray-100 {
+    &::-webkit-scrollbar-track {
+      background-color: var(--color-gray-100);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-track\]\:bg-zinc-100 {
+    &::-webkit-scrollbar-track {
+      background-color: var(--color-zinc-100);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-track\]\:bg-zinc-700 {
+    &::-webkit-scrollbar-track {
+      background-color: var(--color-zinc-700);
+    }
+  }
+  .\[\&\:\:-webkit-scrollbar-track\]\:bg-zinc-950 {
+    &::-webkit-scrollbar-track {
+      background-color: var(--color-zinc-950);
+    }
+  }
+  .dark\:\[\&\:\:-webkit-scrollbar-track\]\:bg-neutral-700 {
+    @media (prefers-color-scheme: dark) {
+      &::-webkit-scrollbar-track {
+        background-color: var(--color-neutral-700);
+      }
+    }
+  }
+  .dark\:\[\&\:\:-webkit-scrollbar-track\]\:bg-zinc-700 {
+    @media (prefers-color-scheme: dark) {
+      &::-webkit-scrollbar-track {
+        background-color: var(--color-zinc-700);
       }
     }
   }

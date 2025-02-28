@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Section</title>
-    <link rel="stylesheet" href="styles/style.css">
-</head>
-<body class="bg-zinc-950 ">
-    <div class="prose prose-invert m-auto w-5xl">
-        {{ section.content | safe }}
-    </div>
-</body>
-</html>
+{% extends 'base.html' %} {% block content %} {{ section.content | safe }}
+{%endblock content %}
