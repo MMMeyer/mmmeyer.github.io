@@ -18,6 +18,12 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 - Fr, 16.05.25, 19:30 Uhr, Heisenberg-Gymnasium, Triftstraße 43
 - Sa, 17.05.25, 20:00 Uhr, Kellertheater, Johannes-Brahms-Platz 1
 
+## Karten
+- Eintritt 15€, ermäßigt 7€
+- Vorbestellungen bis zum Tag vor der Aufführung per Mail:
+- **theemptyroom@posteo.de**
+    - Mailen Sie uns ihren Namen und die Anzahl der Karten zur Resevierung.
+
 ## Ein Blick in das Spiel
 ![](schaue.webp)
 ![](hoere.webp)
