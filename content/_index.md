@@ -22,6 +22,7 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 - Eintritt 15€, ermäßigt 7€
 - Vorbestellungen bis zum Tag vor der Aufführung per Mail: *theemptyroom@posteo.de*:
     - Name, Aufführungsdatum, Anzahl der Karten zur Resevierung.
+    - Die Karten liegen bis 15 Minuten vor Aufführungsbeginn an der Abendkasse bereit.
 
 ## Ein Blick in das Spiel
 ![](schaue.webp)

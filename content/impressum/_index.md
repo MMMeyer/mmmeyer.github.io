@@ -10,7 +10,7 @@ Am Fuchsberg 16,
 Deutschland
 
 ### Kontakt:
-**E-Mail:** >>>>moritz_meyer@hotmail.com<<<<
+**E-Mail:** >>>>theemptyroom@posteo.de<<<<
 
 
 ### Haftung für Inhalte
