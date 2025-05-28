@@ -11,12 +11,8 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 **the empty room** ist ein freies Theaterkollektiv aus dem Süden Hamburgs. Es spielt vor minimalem Hintergrund und ohne technischen Aufwand. Ohne einen Regisseur gestalten die Spieler den Prozess der Inszenierung gemeinsam.
 
 ## Aufführungen
-- Do, 08.05.25, 19:30 Uhr, Heisenberg-Gymnasium, Triftstraße 43
-- Fr, 09.05.25, 19:30 Uhr, MUT! Theater, Amandastraße 58
-- Sa, 10.05.25, 19:30 Uhr, Elbdeich e.V., Moorburger Elbdeich 249
-- So, 11.05.25, 16:00 Uhr, Gartenkunstnetz e.V., Eifflerstraße 35
-- Fr, 16.05.25, 19:30 Uhr, Heisenberg-Gymnasium, Triftstraße 43
-- Sa, 17.05.25, 20:00 Uhr, Kellertheater, Johannes-Brahms-Platz 1
+- Di, 22.07.25, 17:00 Uhr, Sommer im Park, Freilichtbühne im Harburger Stadtpark, Marmstorfer Weg / Außenmühle, 
+- So, 05.10.25, 17:00 Uhr, Alte Werft, Cranz 
 
 ## Karten
 - Eintritt 15€, ermäßigt 7€
