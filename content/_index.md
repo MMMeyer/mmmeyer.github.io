@@ -11,8 +11,8 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 **the empty room** ist ein freies Theaterkollektiv aus dem Süden Hamburgs. Es spielt vor minimalem Hintergrund und ohne technischen Aufwand. Ohne einen Regisseur gestalten die Spieler den Prozess der Inszenierung gemeinsam.
 
 ## Aufführungen
-- Di, 22.07.25, 17:00 Uhr, Sommer im Park, Freilichtbühne im Harburger Stadtpark, Marmstorfer Weg / Außenmühle,
-- So, 05.10.25, 17:00 Uhr, Alte Werft, Cranz
+- Di, 22.07.25, 17:00 Uhr, Sommer im Park, Freilichtbühne im Harburger Stadtpark, Marmstorfer Weg / Außenmühle, 
+- So, 05.10.25, 17:00 Uhr, Alte Werft, Cranz 
 
 ## Karten
 - Eintritt 15€, ermäßigt 7€
@@ -22,7 +22,6 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 
 ## Ein Blick in das Spiel
 ![](18_Mai_Auffuehrungen.JPG)
-![](17_Mai_Auffuehrungen.JPG)
 ![](65_Mai_Auffuehrungen.JPG)
 ![](69_Mai_Auffuehrungen.JPG)
 ![](23_Mai_Auffuehrungen.JPG)
