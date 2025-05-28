@@ -21,7 +21,8 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
     - Die Karten liegen bis 15 Minuten vor Aufführungsbeginn an der Abendkasse bereit.
 
 ## Ein Blick in das Spiel
+![](18_Mai_Auffuehrungen.JPG)
 ![](17_Mai_Auffuehrungen.JPG)
 ![](23_Mai_Auffuehrungen.JPG)
 ![](65_Mai_Auffuehrungen.JPG)
-![](69__Mai_Auffuehrungen.JPG)
+![](69_Mai_Auffuehrungen.JPG)
