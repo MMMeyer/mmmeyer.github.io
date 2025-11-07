@@ -11,14 +11,9 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 **the empty room** ist ein freies Theaterkollektiv aus dem Süden Hamburgs. Es spielt vor minimalem Hintergrund und ohne technischen Aufwand. Ohne einen Regisseur gestalten die Spieler den Prozess der Inszenierung gemeinsam.
 
 ## Aufführungen
-- Di, 22.07.25, 17:00 Uhr, Sommer im Park, Freilichtbühne im Harburger Stadtpark, Marmstorfer Weg / Außenmühle,
-- So, 05.10.25, 17:00 Uhr, Alte Werft, Cranz
+- Sa, 29.11.25, 19 Uhr, >>Alles wird schön<<, Friedrich-Naumann-Straße 27, Heimfeld
 
-## Karten
-- Eintritt 15€, ermäßigt 7€
-- Vorbestellungen bis zum Tag vor der Aufführung per Mail: *theemptyroom@posteo.de*:
-    - Name, Aufführungsdatum, Anzahl der Karten zur Resevierung.
-    - Die Karten liegen bis 15 Minuten vor Aufführungsbeginn an der Abendkasse bereit.
+
 
 ## Ein Blick in das Spiel
 ![](18_Mai_Auffuehrungen.JPG)

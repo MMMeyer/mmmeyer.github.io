@@ -54,3 +54,5 @@ Aufführungen:
 - So, 11.05.25, 16:00 Uhr, Gartenkunstnetz e.V., Eifflerstraße 35
 - Fr, 16.05.25, 19:30 Uhr, Heisenberg-Gymnasium, Triftstraße 43
 - Sa, 17.05.25, 20:00 Uhr, Kellertheater, Johannes-Brahms-Platz 1
+- Di, 22.07.25, 17:00 Uhr, Sommer im Park, Freilichtbühne im Harburger Stadtpark, Marmstorfer Weg / Außenmühle,
+- So, 05.10.25, 17:00 Uhr, Alte Werft, Cranz
