@@ -11,7 +11,7 @@ In eigener Bühnenfassung, Spieldauer ca.100 Min.
 **the empty room** ist ein freies Theaterkollektiv aus dem Süden Hamburgs. Es spielt vor minimalem Hintergrund und ohne technischen Aufwand. Ohne einen Regisseur gestalten die Spieler den Prozess der Inszenierung gemeinsam.
 
 ## Aufführungen
-- Sa, 29.11.25, 19 Uhr, >>Alles wird schön<<, Friedrich-Naumann-Straße 27, Heimfeld
+- Sa, 29.11.25, 19 Uhr im 'Alles wird schön', Friedrich-Naumann-Straße 27, Heimfeld
 
 
 
